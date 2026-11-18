@@ -1,13 +1,13 @@
 {
-  "version": "24f09f4107",
-  "built_at": "2026-11-18T16:37:39",
-  "count": 39,
+  "version": "d0243a4165",
+  "built_at": "2026-11-18T17:39:52",
+  "count": 16914,
   "counts": {
-    "movie": 39,
-    "tv": 0
+    "movie": 13000,
+    "tv": 3914
   },
   "shard_size": 500,
-  "shard_count": 1,
+  "shard_count": 34,
   "top_k": 30,
   "score_scale": 1000,
   "genre_groups": [
@@ -79,8 +79,8 @@
   "model": "all-MiniLM-L6-v2",
   "attribution": "This product uses the TMDB API but is not endorsed or certified by TMDB. Movie and TV data and images courtesy of The Movie Database (themoviedb.org).",
   "files": {
-    "galaxy.bin": 624,
-    "search-index.json": 1561,
-    "posters.json": 1366
+    "galaxy.bin": 270624,
+    "search-index.json": 708296,
+    "posters.json": 591510
   }
 }
